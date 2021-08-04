@@ -20,5 +20,5 @@ I am Mohit Sisodiya, a Experienced Software Developer who is interested in build
 - Twitter: https://twitter.com/mohitsisodiya09
 - Instagram: https://instagram.com/mohitsisodiya09
 - GitHub: https://github.com/mohitsisodiya09
-- Gitlab: https://gitlab.com/in/mohit0901
+- Gitlab: https://gitlab.com/mohitsisodiya09
 - StackOverflow: https://stackoverflow.com/users/8276393/mohit-sisodiya
