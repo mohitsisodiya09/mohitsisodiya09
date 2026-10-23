@@ -1,32 +1,39 @@
 # Hi, I'm Mohit Sisodiya 👋
 
-### Senior Backend Engineer | Node.js & NestJS | Backend Architecture & Technical Leadership
+### Senior Backend Engineer | Node.js · NestJS · TypeScript · System Design
 
-I build scalable backend systems, production APIs, and cloud-based platforms that solve complex business problems.
+I build scalable backend systems, production-grade APIs, and cloud-based applications that solve complex business problems.
 
-I'm a **Senior Software Engineer and Backend Tech Lead with 6+ years of experience** across fintech, enterprise logistics, SaaS, marketplaces, automotive, and IoT. My core expertise lies in Node.js, NestJS, Express.js, TypeScript, system design, and building secure, maintainable backend architectures.
+I'm a **Senior Software Engineer with 6+ years of experience** building backend solutions across fintech, enterprise logistics, SaaS, marketplaces, automotive, and IoT. My expertise includes Node.js, NestJS, Express.js, TypeScript, database design, API performance optimisation, and modular backend architecture.
 
-I've contributed to **13 production projects, including solutions for Shell and DP World**, and led cross-functional engineering teams of up to 8 members. My work includes improving API latency by up to 60%, reducing CI/CD build and deployment times by approximately 60–70%, and building integrations across payments, identity management, messaging, and AI-powered document processing.
+Throughout my career, I've contributed to **13 production projects, including solutions for Shell and DP World**, and led engineering teams of up to 8 members. My work has included improving API latency by up to 60% and reducing CI/CD build and deployment times by approximately 60–70%.
 
-I enjoy working at the intersection of hands-on engineering, architecture, and technical leadership — from designing APIs and data models to mentoring engineers and delivering production-ready systems.
+I enjoy combining hands-on engineering with system design, technical decision-making, code quality, and mentoring to deliver reliable, maintainable software.
 
-- 🔭 **Focus:** Backend engineering, system design, scalable APIs, and distributed systems
+- 🔭 **Focus:** Backend engineering, scalable APIs, system design, and distributed systems
 - 🛠️ **Core stack:** Node.js, NestJS, Express.js, TypeScript, MongoDB, PostgreSQL, MySQL
-- ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD
-- 🏗️ **Architecture:** Microservices, modular monoliths, NX monorepos, RBAC, event-driven systems
-- 🤖 **Exploring in production:** LLM integrations, document processing, and AI-powered workflows
-- 🤝 **Leadership:** Technical architecture, code reviews, mentoring, sprint planning, and delivery
+- 🏗️ **Architecture:** Microservices, modular monoliths, NX monorepos, reusable libraries
+- ☁️ **Cloud & DevOps:** AWS, Docker, CI/CD, deployment automation
+- 🔐 **Security:** JWT, OAuth 2.0, SSO, RBAC, secure API design
+- 🤖 **Additional experience:** LLM integrations, OCR, document processing, and AI-powered workflows
+- 🤝 **Leadership:** Technical design, code reviews, mentoring, and engineering delivery
 - 🎯 **Open to:** Senior Backend Engineer, Senior Software Engineer, Backend Tech Lead, and Technical Lead opportunities
 
 ---
 
 ## 🧰 Technical Expertise
 
-**Languages & Backend**
+**Languages & Backend Development**
 - JavaScript, TypeScript, Node.js
 - NestJS, Express.js
 - REST APIs, GraphQL, Webhooks
+- API design, validation, error handling, and performance optimisation
+
+**Architecture & Engineering**
+- NX monorepos and reusable libraries
 - Microservices and modular application architecture
+- System design, scalability, and maintainability
+- Centralised logging, testing, and code quality
 
 **Databases & Messaging**
 - MongoDB, Mongoose, PostgreSQL, MySQL
@@ -34,20 +41,18 @@ I enjoy working at the intersection of hands-on engineering, architecture, and t
 - MQTT, WebSockets, Socket.IO
 
 **Cloud, DevOps & Testing**
-- AWS S3, CloudFront, SES, EC2, Lambda Function, SNS, SQS
+- AWS S3, CloudFront, SES, SNS, EC2, Lambda function
 - Docker, GitHub Actions, Azure DevOps
-- Jest, Mocha, Chai
-- API performance optimisation and deployment automation
+- Jest, Mocha
+- CI/CD pipelines and deployment automation
 
 **Security & Integrations**
 - JWT, OAuth 2.0, SSO, RBAC
-- Payment integrations and idempotent transaction workflows
-- Stripe, Twilio, SendGrid, Microsoft Dynamics CRM
-- Audit logging and secure API design
+- Payment gateway integrations and transaction workflows
+- Third-party APIs, webhooks, and enterprise integrations
 
 **AI & Document Processing**
 - OpenAI API and LLM integrations
-- xAI Grok API
 - Azure AI Document Intelligence and OCR
 - Structured data extraction and validation
 
@@ -55,13 +60,13 @@ I enjoy working at the intersection of hands-on engineering, architecture, and t
 
 ## 🚀 Selected Engineering Experience
 
-- **Petroleum Logistics — Shell:** Designed backend services for order generation, shipment scheduling, inventory validation, and operational analytics.
-- **Enterprise Logistics — DP World:** Developed backend APIs supporting shipment visibility, documentation, exception management, and enterprise workflows.
-- **FinTech & Digital Lending:** Built financial workflows covering loan processing, repayments, payment operations, audit logging, and AI-assisted bank statement analysis.
-- **Enterprise SaaS & Marketplaces:** Led architecture and delivery across lead management, identity verification, real-time communication, and business workflow automation.
-- **IoT & Digital Twin:** Developed backend services for real-time vehicle telemetry and digital twin visualisation using MQTT.
+- **Enterprise Logistics:** Developed backend services for order generation, shipment scheduling, inventory validation, shipment visibility, and operational workflows.
+- **FinTech & Digital Lending:** Built financial workflows for loan processing, repayments, payment operations, audit logging, and AI-assisted bank statement analysis.
+- **SaaS & Business Platforms:** Designed APIs and integrations for identity verification, lead management, real-time communication, and workflow automation.
+- **IoT & Real-Time Systems:** Worked on backend services for device telemetry, location data ingestion, MQTT messaging, and real-time data processing.
+- **Digital Platforms:** Contributed to modular applications involving content management, digital libraries, activity tracking, and role-based access control.
 
-*Project descriptions are kept at a high level to respect client confidentiality.*
+*Project descriptions are intentionally kept high-level to respect client confidentiality.*
 
 ---
 
@@ -70,7 +75,7 @@ I enjoy working at the intersection of hands-on engineering, architecture, and t
 | Area | Impact |
 | --- | --- |
 | Production delivery | 13 projects across multiple domains |
-| Technical leadership | Led cross-functional teams of up to 8 |
+| Technical leadership | Led engineering teams of up to 8 members |
 | API performance | Up to 60% lower API latency |
 | CI/CD optimisation | Approximately 60–70% faster build and deployment times |
 
@@ -78,11 +83,11 @@ I enjoy working at the intersection of hands-on engineering, architecture, and t
 
 ## 🌐 Let's Connect
 
-I'm always interested in discussing backend architecture, engineering challenges, scalable systems, and opportunities to build impactful products.
+I'm interested in discussing backend architecture, system design, engineering challenges, and opportunities to build impactful products.
 
 - 🌍 **Portfolio:** [mohitsisodiya.vercel.app](https://mohitsisodiya.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/mohitsisodiya09](https://www.linkedin.com/in/mohitsisodiya09/)
-- 💻 **GitHub:** [@mohitsisodiya09](https://github.com/mohitsisodiya09)
+- 💻 **GitHub:** [github.com/mohitsisodiya09](https://github.com/mohitsisodiya09)
 - 📄 **Resume:** [View my resume](https://mohitsisodiya.vercel.app/Mohit_Sisodiya_Resume.pdf)
 - 📧 **Email:** [mohitsisodiya76@gmail.com](mailto:mohitsisodiya76@gmail.com)
 
